@@ -1,5 +1,7 @@
 # Forum Stack — Network Administrator Setup Guide
 
+> **Repository status — historical snapshot (2026-11-04).** This repository preserves a broad Lampy build snapshot and its historical runbooks. It is not the canonical source for every current component. Active component repositories include [lampy-single](https://github.com/kitcosby/lampy-single) (Docker image), [lampy-installer](https://github.com/kitcosby/lampy-installer) (Windows/WSL installer), [lampy-admin](https://github.com/kitcosby/lampy-admin) (administration console), and [lampy-deps](https://github.com/kitcosby/lampy-deps) (build dependencies). Compare the relevant component and commit before copying or restoring files. Keep this repository intact as historical reference until its unique material has been reviewed.
+
 **Project name: Lampy.**
 
 **Living document.** Built alongside the stack itself; each section is marked
